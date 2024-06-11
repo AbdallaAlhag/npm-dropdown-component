@@ -43,3 +43,5 @@ initDropDown('body',dropdownItems);
 
 We are using the free library called boxicons. https://boxicons.com \
 The iconClass key is the classes that the icon belongs to when you click on the icon and press font! For example, the sushi icon has the class attribute set to <i class='bx bxs-sushi'></i> 
+
+TEST FILES : https://github.com/AbdallaAlhag/npm-dropdown-component-test
