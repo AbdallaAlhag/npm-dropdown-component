@@ -10,7 +10,6 @@ Basic Drop Down Component with styling
     
 ## Demo
 
-Insert gif or link to demo
 ![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnhqa3NxbWxzdjhsZjFwbHVnb3dnbXphbzZ5eHZtOXVvMG9wa2JvZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qMBiR1Kh89PFMI17I2/giphy.gif)
 
 ## Usage/Examples
