@@ -1,6 +1,6 @@
 {
   "name": "basic-dropdown-component",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "fixed Icons to display correctly!!!",
   "main": "./src/index.js",
   "scripts": {

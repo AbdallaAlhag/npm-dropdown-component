@@ -17,6 +17,8 @@ Basic Drop Down Component with styling
 
 
 ```javascript
+Check out the css page for the styling!
+
 Include this in HTML for the Boxicon Icons to work
 <link rel="stylesheet" href="https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css">
 
