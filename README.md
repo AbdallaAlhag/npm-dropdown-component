@@ -10,11 +10,16 @@ Basic Drop Down Component with styling
     
 ## Demo
 
-![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnhqa3NxbWxzdjhsZjFwbHVnb3dnbXphbzZ5eHZtOXVvMG9wa2JvZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qMBiR1Kh89PFMI17I2/giphy.gif)
+![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjYzN3A4c3RkbDF3Y3hyYzRhYnRmM3BpNXBrbDRzaDcyM2Z4ZGN5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yWb1Tak6nw3ZKsHcui/giphy.gif)
 
 ## Usage/Examples
 
+
+
 ```javascript
+Include this in HTML for the Boxicon Icons to work
+<link rel="stylesheet" href="https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css">
+
 const { initDropDown } = require('basic-dropdown-component')
 
 // // Array of dropdown items, some examples

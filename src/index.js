@@ -1,7 +1,7 @@
 import './style.css';
 // require('./style.css');
 
-// // Array of dropdown items
+// Array of dropdown items
 // const dropdownItems = [
 //   { href: '#create', iconClass: 'bx bx-plus-circle', text: 'Create New' },
 //   { href: '#draft', iconClass: 'bx bx-book', text: 'All Drafts' },
@@ -75,7 +75,7 @@ function createDropdown(parent = 'body', itemList) {
     link.href = item.href;
 
     const icon = document.createElement('i');
-    icon.classList.add(item.iconClass.split(' '));
+    icon.classList.add(...item.iconClass.split(' '));
 
     const textNode = document.createTextNode(item.text);
 
@@ -93,5 +93,9 @@ function createDropdown(parent = 'body', itemList) {
 
 }
 
+// initDropDown('body', dropdownItems);
 
 export { initDropDown };
+
+
+
